@@ -1,0 +1,315 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dD:/P2_E2
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1446639157
+VB[;AW[Gn^Z4SVDo4Q3Oa>0
+Z1 04 13 15 work procesador_tb tb_architecture 1
+=1-2c4138b4d56d-5639f635-65-170c
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z3 OL;O;10.2e;57
+T_opt1
+V372KH?i62bA4<6m05Uncj1
+R1
+=1-2c4138b4d56d-5639e82d-58-14a8
+R2
+n@_opt1
+R3
+Z4 dD:/P2_E2
+!s110 1446635565
+Ealumips
+Z5 w1446541888
+Z6 DPx4 ieee 11 numeric_std 0 22 WES[o8HS0jHV[MIXQk2Ha1
+Z7 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z8 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z9 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z10 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+R4
+Z11 8ALUMIPS.vhd
+Z12 FALUMIPS.vhd
+l0
+L11
+V_:MO>ZaeX9d^Q2:_7?PT93
+Z13 OL;C;10.2e;57
+31
+Z14 !s110 1446639156
+Z15 !s108 1446639156.406000
+Z16 !s90 -reportprogress|300|-explicit|-93|ALUMIPS.vhd|
+Z17 !s107 ALUMIPS.vhd|
+Z18 o-explicit -93
+Z19 tExplicit 1
+!s100 i>GYhM32>gP:POCS9XbVn2
+!i10b 1
+!i111 0
+Apractica
+R6
+R7
+R8
+R9
+R10
+DEx4 work 7 alumips 0 22 _:MO>ZaeX9d^Q2:_7?PT93
+l28
+L21
+VWj;d2b]?dH^]U^7^UgO@f3
+R13
+31
+R14
+R15
+R16
+R17
+R18
+R19
+!s100 YfhmB2lj8@F6[dg^mDWb]2
+!i10b 1
+!i111 0
+Ememoria
+R5
+Z20 DPx4 ieee 16 std_logic_textio 0 22 E=LR>a2bb_I?VV>QDdAdh3
+R8
+R7
+R10
+R9
+R4
+Z21 8memoria.vhd
+Z22 Fmemoria.vhd
+l0
+L18
+Vk;Gf9[OY4OXF2J43dU`L72
+R13
+31
+R14
+Z23 !s108 1446639156.681000
+Z24 !s90 -reportprogress|300|-explicit|-93|memoria.vhd|
+Z25 !s107 memoria.vhd|
+R18
+R19
+!s100 PL_US;==lTc:Nm``^;f>E0
+!i10b 1
+!i111 0
+Abehavioral
+R20
+R8
+R7
+R10
+R9
+Z26 DEx4 work 7 memoria 0 22 k;Gf9[OY4OXF2J43dU`L72
+l38
+L33
+VGWjoPdDzDKZX_;FGlF<Pk2
+R13
+31
+R14
+R23
+R24
+R25
+R18
+R19
+!s100 6FkFgEm;:[_Rkd8?P[ZB:1
+!i10b 1
+!i111 0
+Eprocesador
+Z27 w1446639139
+R8
+R7
+R9
+R10
+R4
+Z28 8procesador.vhd
+Z29 Fprocesador.vhd
+l0
+L16
+ViaeP0KR>c1KjD8EFX@F@N1
+R13
+31
+R14
+Z30 !s108 1446639156.517000
+Z31 !s90 -reportprogress|300|-explicit|-93|procesador.vhd|
+Z32 !s107 procesador.vhd|
+R18
+R19
+!s100 U1VhbXR7B2ze;hV7lPdzg0
+!i10b 1
+!i111 0
+Apractica
+R8
+R7
+R9
+R10
+Z33 DEx4 work 10 procesador 0 22 iaeP0KR>c1KjD8EFX@F@N1
+l188
+L35
+V1B;QPaHOQ3]Eh?i;6MGH42
+R13
+31
+R14
+R30
+R31
+R32
+R18
+R19
+!s100 N]M9Z2AB9PCle8MYFN_Xk1
+!i10b 1
+!i111 0
+Eprocesador_tb
+Z34 w1446636026
+R8
+R7
+R9
+R10
+R4
+Z35 8procesador_TB.vhd
+Z36 Fprocesador_TB.vhd
+l0
+L24
+VP:DVcdJ]2WMYXiRnjjbbe0
+R13
+31
+R14
+Z37 !s108 1446639156.779000
+Z38 !s90 -reportprogress|300|-explicit|-93|procesador_TB.vhd|
+Z39 !s107 procesador_TB.vhd|
+R18
+R19
+!s100 n:0AYA<BzX=bDjW:3UWj61
+!i10b 1
+!i111 0
+Atb_architecture
+R8
+R7
+R9
+R10
+Z40 DEx4 work 13 procesador_tb 0 22 P:DVcdJ]2WMYXiRnjjbbe0
+l73
+L27
+V;KWloYE>M<[B1G<IL4gYg3
+R13
+31
+R14
+R37
+R38
+R39
+R18
+R19
+!s100 o3hEVgN>JPST<nY:6FFP:1
+!i10b 1
+!i111 0
+Eregsmips
+R5
+R7
+R8
+R9
+R10
+R4
+Z41 8RegsMIPS.vhd
+Z42 FRegsMIPS.vhd
+l0
+L11
+VVC@;4<?TmP=XSQ8j8W5J70
+R13
+31
+R14
+Z43 !s108 1446639156.262000
+Z44 !s90 -reportprogress|300|-explicit|-93|RegsMIPS.vhd|
+Z45 !s107 RegsMIPS.vhd|
+R18
+R19
+!s100 K]SDmHYba?Znf_bY2=GR42
+!i10b 1
+!i111 0
+Apractica
+R7
+R8
+R9
+R10
+DEx4 work 8 regsmips 0 22 VC@;4<?TmP=XSQ8j8W5J70
+l39
+L25
+V:n6_l]j[ekdmlX2Xn7DVL1
+R13
+31
+R14
+R43
+R44
+R45
+R18
+R19
+!s100 TaC0XRmMmoPhUSi_i[9RA2
+!i10b 1
+!i111 0
+Ctestbench_for_procesador
+eprocesador_tb
+aTB_ARCHITECTURE
+R20
+R26
+R33
+DAx4 work 13 procesador_tb 15 tb_architecture 22 ;KWloYE>M<[B1G<IL4gYg3
+R8
+R7
+R9
+R10
+R40
+R34
+R4
+R35
+R36
+l0
+L142
+V7Z<OF03=ZL^Q;1aR9>d`j0
+R13
+31
+R14
+R37
+R38
+R39
+R18
+R19
+!s100 Tg:QgRSlPeJkePfVi:2zN0
+!i10b 1
+!i111 0
+Eunidadcontrol
+R5
+R9
+R10
+R4
+Z46 8UnidadControl.vhd
+Z47 FUnidadControl.vhd
+l0
+L32
+VOJjH9NBDo=Yma@6kMKQSc1
+R13
+31
+R14
+Z48 !s108 1446639156.150000
+Z49 !s90 -reportprogress|300|-explicit|-93|UnidadControl.vhd|
+Z50 !s107 UnidadControl.vhd|
+R18
+R19
+!s100 Of=SCEOYlQ5OkSg?Mcm<83
+!i10b 1
+!i111 0
+Abehavioral
+R9
+R10
+DEx4 work 13 unidadcontrol 0 22 OJjH9NBDo=Yma@6kMKQSc1
+l49
+L47
+V_;Xlb6`;Pz6fo<6lT>AF=1
+R13
+31
+R14
+R48
+R49
+R50
+R18
+R19
+!s100 6@^YXO32Hof8N84A^RGjH2
+!i10b 1
+!i111 0
